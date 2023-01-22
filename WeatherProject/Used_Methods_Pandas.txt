@@ -1,0 +1,9 @@
+1-nunique()&unique()
+2-value_counts()
+3-Filtering
+4-groupby()
+5-isnull() & notnull()
+6-rename()
+7-mean() & std() & var()
+8-str
+9-min() & max()
